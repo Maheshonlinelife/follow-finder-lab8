@@ -25,7 +25,7 @@ function Index() {
     <main className="h-screen w-screen overflow-hidden bg-background">
       <iframe
         title="Betting Hospital decision tool"
-        src="/bcc-live-preview_24.html"
+        src="/bcc-live-preview_25.html"
         className="h-full w-full border-0"
       />
     </main>
