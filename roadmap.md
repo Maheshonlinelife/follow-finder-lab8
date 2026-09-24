@@ -5,5 +5,5 @@
 - [x] Verify the downloadable HTML
 - [x] Add no-future-data Step 9 backtesting logic
 - [x] Compare FOLLOW, WATCH, and WAIT across all data modes
-- [ ] Serve and verify the upgraded Step 9 backtest
-- [ ] Update and verify the downloadable HTML
+- [x] Serve and verify the upgraded Step 9 backtest
+- [x] Update and verify the downloadable HTML
